@@ -16,7 +16,20 @@ Repara filtro de oxígeno:
 -MOXIE demostró la producción de oxígeno a partir de la atmósfera marciana: produjo 122 gramos en total y alcanzó 12 gramos por hora. Fue un experimento; una planta para una base sería un diseño diferente. NASA
 
 
+#Eventos de la Luna
+- Eventos del entorno lunar: El juego incluye eventos inspirados en condiciones reales de la Luna. Cada uno plantea decisiones que afectan los recursos, la seguridad de la tripulación y el avance de la misión. Las consecuencias son simplificaciones educativas para el juego.
 
+- Alerta de partículas solares: Un episodio de actividad solar aumenta el peligro de radiación para los astronautas que están en el exterior. El jugador debe llevar a la tripulación al refugio y posponer la expedición. Puede utilizar un robot para continuar algunas tareas, consumiendo su batería.
+  
+- Llega la noche lunar: Los paneles solares dejan de recibir luz y la base depende de la energía almacenada. El jugador debe preparar sus reservas con anticipación y decidir qué equipos no esenciales apagar para mantener funcionando el hábitat.
+
+- Temperatura extrema en un equipo: El calor o el frío dificultan el funcionamiento de un vehículo o instrumento. El jugador debe elegir entre gastar energía en controlar su temperatura o suspender su uso, retrasando la tarea prevista.
+
+- Polvo adherido a los trajes: Después de una expedición, los astronautas regresan con polvo lunar abrasivo adherido a sus trajes. El jugador debe dedicar tiempo a limpiar y revisar el equipo, lo que puede retrasar la siguiente actividad.
+
+- Impacto de un micrometeoroide: Un pequeño objeto espacial daña un equipo exterior de la base. El jugador debe decidir entre utilizar repuestos y tiempo para repararlo o trabajar temporalmente con menor capacidad.
+
+- Sismo lunar: Un temblor hace necesario revisar las estructuras y las rutas cercanas a pendientes. El jugador debe dedicar tiempo a inspeccionar antes de continuar o tomar una ruta alternativa que consume más batería.
 
 
 #Eventos de marte 
