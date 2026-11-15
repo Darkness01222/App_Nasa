@@ -11,5 +11,5 @@ Cuando estas partículas llegan a Marte, pueden interactuar con su atmósfera y 
 
 
 Sismo marciano: 
-ocurren cuando las rocas del interior de Marte se rompen o se mueven, liberando energía que hace temblar el suelo.
+los sismos marcianos ocurren cuando las rocas del interior de Marte se rompen o se mueven, liberando energía que hace temblar el suelo.
 Esto puede suceder porque Marte se enfría lentamente por dentro, provocando que su corteza se contraiga y se agriete.
