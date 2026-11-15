@@ -1,0 +1,28 @@
+# =====================================================================
+#  DIALOGOS DE AYUDA AL COMANDANTE
+# ---------------------------------------------------------------------
+#  Formato:
+#    - Una frase por linea.
+#    - Las lineas que empiezan con # son comentarios (se ignoran).
+#    - Las lineas vacias se ignoran.
+#    - Para un salto de linea dentro de una frase escribe \n
+#    - Para agregar mas dialogos, solo anade mas lineas al final.
+# =====================================================================
+
+Comandante, necesito su ayuda.
+Comandante, por favor, ¿tiene un momento?
+¡Comandante! Algo no anda bien por aqui.
+Senor, creo que necesito atencion urgente.
+Comandante, ¿podria echarme una mano?
+Disculpe, Comandante... ¿puede venir?
+¡Comandante, lo necesito!
+Comandante, no me siento muy bien.\n¿Puede ayudarme?
+Senor, sus ordenes me vendrian muy bien ahora.
+Comandante, hay algo que debo reportarle.
+Necesito apoyo, Comandante.
+Comandante, ¿me escucha? Necesito ayuda.
+Por favor, Comandante, no me deje solo.
+Comandante, la tripulacion lo necesita.
+¡Comandante, auxilio!
+
+# --- Agrega nuevos dialogos debajo de esta linea ---
