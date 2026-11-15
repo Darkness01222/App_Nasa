@@ -15,6 +15,13 @@ Repara filtro de oxígeno:
 -Usar energía para producir oxígeno o dedicarla a ciencia y consumir reservas almacenadas.	
 -MOXIE demostró la producción de oxígeno a partir de la atmósfera marciana: produjo 122 gramos en total y alcanzó 12 gramos por hora. Fue un experimento; una planta para una base sería un diseño diferente. NASA
 
+- Alerta de radiación solar: Un episodio de actividad solar obliga a interrumpir las actividades exteriores. El jugador debe trasladar a la tripulación a un refugio protegido y reorganizar la misión con tareas que puedan realizarse dentro.
+
+- ¡Nos queda poca energía!: La batería de la base está bajando. Hay que mantener encendidos los equipos que cuidan a los astronautas. ¿Apagamos las luces del laboratorio o dejamos la carga del robot para después?
+
+- ¡Hay que ahorrar agua!: La máquina que limpia el agua usada necesita una reparación. Tenemos agua de reserva para beber y preparar comida. ¿Posponemos un experimento que usa agua o dedicamos este turno a reparar la máquina?
+
+- Los suministros llegarán después: La nave con materiales se retrasó. Tenemos lo necesario para cuidarnos, pero hay que reorganizar los planes. ¿Esperamos para ampliar la base o usamos los materiales disponibles para reparar el robot?
 
 #Eventos de la Luna
 - Eventos del entorno lunar: El juego incluye eventos inspirados en condiciones reales de la Luna. Cada uno plantea decisiones que afectan los recursos, la seguridad de la tripulación y el avance de la misión. Las consecuencias son simplificaciones educativas para el juego.
