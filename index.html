@@ -55,7 +55,7 @@
         updateBannerVisibility();
       }
 
-      var buildUrl = "Build";
+      var buildUrl = ".";
       var loaderUrl = buildUrl + "/Builds.loader.js";
       var config = {
         dataUrl: buildUrl + "/Builds.data.br",
@@ -101,6 +101,10 @@
 
       var script = document.createElement("script");
       script.src = loaderUrl;
+      script.onerror = () => {
+        loadingBar.style.display = "none";
+        unityShowBanner("No se pudo cargar el juego. Revisa que los archivos del build estén publicados junto al index.html.", "error");
+      };
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
